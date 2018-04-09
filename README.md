@@ -1,21 +1,22 @@
-# AWESOME DISTRIBUTED MACHINE LEARNING
+# Awesome Distributed Machine Learning
+
 A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ## Table of Contents
 
 ### **[Frameworks](#frameworks)** 
-
+<!--
 ### **[Papers](#papers)**  
-
+<!--
 ### **[Tutorials](#tutorials)**  
-
+<!--
 ### **[Researchers](#researchers)**  
-
+<!--
 ### **[Videos and Lectures](#videos-and-lectures)** 
-
+<!--
 ### **[Miscellaneous](#miscellaneous)**  
-
-### **[Contributing](#contributing)** 
+<!--
+### **[Contributing](#contributing)** -->
 
 ## Frameworks
 
