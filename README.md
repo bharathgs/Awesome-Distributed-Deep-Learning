@@ -9,10 +9,8 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 ### **[Papers](#papers)**  
 <!--
 ### **[Tutorials](#tutorials)**  
-<!--
-### **[Researchers](#researchers)**  
-<!--
-### **[Videos and Lectures](#videos-and-lectures)** 
+
+### **[Blogs](#blogs)** 
 <!--
 ### **[Miscellaneous](#miscellaneous)**  
 <!--
@@ -26,3 +24,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 4. [Distributed Machine learning Tool Kit (DMTK)](http://www.dmtk.io/) - A distributed machine learning (parameter server) framework by Microsoft. Enables training models on large data sets across multiple machines. Current tools bundled with it include: LightLDA and Distributed (Multisense) Word Embedding.
 5. [Elephas](https://github.com/maxpumperla/elephas) - Elephas is an extension of Keras, which allows you to run distributed deep learning models at scale with Spark.
 6. [Horovod](https://github.com/uber/horovod) - Distributed training framework for TensorFlow.
+
+## Blogs
+
+1. [Keras + Horovod = Distributed Deep Learning on Steroids](https://medium.com/searchink-eng/keras-horovod-distributed-deep-learning-on-steroids-94666e16673d)
