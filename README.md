@@ -28,3 +28,5 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 ## Blogs
 
 1. [Keras + Horovod = Distributed Deep Learning on Steroids](https://medium.com/searchink-eng/keras-horovod-distributed-deep-learning-on-steroids-94666e16673d)
+2. [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow
+](https://eng.uber.com/horovod/)
