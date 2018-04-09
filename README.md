@@ -11,12 +11,13 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 ## Table of Contents
 
 ### **[Frameworks](#frameworks)** 
+
+### **[Blogs](#blogs)** 
 <!--
 ### **[Papers](#papers)**  
 <!--
 ### **[Tutorials](#tutorials)**  
 
-### **[Blogs](#blogs)** 
 <!--
 ### **[Miscellaneous](#miscellaneous)**  
 <!--
