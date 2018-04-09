@@ -1,5 +1,11 @@
 # Awesome Distributed Machine Learning
 
+<p align="center">
+	<img src="https://img.shields.io/badge/stars-0-brightgreen.svg?style=flat"/>
+	<img src="https://img.shields.io/badge/forks-0-brightgreen.svg?style=flat"/>
+	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
+</p>
+
 A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ## Table of Contents
