@@ -51,5 +51,7 @@ algorithms is almost always limited by the overhead of communicating between ser
 this rule. Therefore, the key consideration this paper makes is to reduce communication overhead wherever possible, while not degrading the accuracy of the DNN models that we train. 
 3. [SparkNet](https://arxiv.org/abs/1511.06051): Training Deep Networks in Spark. In Proceedings of the
 International Conference on Learning Representations (ICLR).
+4. [1-Bit SGD](https://www.microsoft.com/en-us/research/publication/1-bit-stochastic-gradient-descent-and-application-to-data-parallel-distributed-training-of-speech-dnns/): 1-Bit Stochastic Gradient Descent and Application to
+Data-Parallel Distributed Training of Speech DNNs, In Interspeech 2014.
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
