@@ -58,5 +58,7 @@ Commodity GPU Cloud Computing](https://s3-us-west-2.amazonaws.com/amazon.jobs-pu
 Networks (DNN). The method solves the well-known communication bottleneck problem that arises for data-parallel SGD because compute nodes frequently need to synchronize a replica of the model.  
 6. [Multi-GPU Training of ConvNets.](http://arxiv.org/abs/1312.5853): Training of ConvNets on multiple GPU's
 #### Stale-Synchronous techniques: 
+1. [Model Accuracy and Runtime Tradeoff in Distributed Deep Learning](https://doi.org/10.1109/ICDM.2016.0028): A Systematic
+Study.
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
