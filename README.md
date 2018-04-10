@@ -44,12 +44,12 @@ A curated list of awesome Distributed Deep Learning resources.
 1. [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941):discusses the different types of concurrency in DNNs; synchronous and asynchronous stochastic gradient descent; distributed system architectures; communication schemes; and performance modeling. Based on these approaches, it also extrapolates the  potential directions for parallelism in deep learning. 
 ### Synchronization:
 #### Synchronous techniques: 
-2. [Deep learning with COTS HPC systems](http://ai.stanford.edu/~acoates/papers/CoatesHuvalWangWuNgCatanzaro_icml2013.pdf): Commodity Off-The-Shelf High Performance Computing (COTS HPC) technology, a cluster of GPU servers with Infiniband interconnects and MPI.
-3. [FireCaffe: near-linear acceleration of deep neural network training on compute clusters
+1. [Deep learning with COTS HPC systems](http://ai.stanford.edu/~acoates/papers/CoatesHuvalWangWuNgCatanzaro_icml2013.pdf): Commodity Off-The-Shelf High Performance Computing (COTS HPC) technology, a cluster of GPU servers with Infiniband interconnects and MPI.
+2. [FireCaffe: near-linear acceleration of deep neural network training on compute clusters
 ](https://arxiv.org/abs/1511.00175): The speed and scalability of distributed
 algorithms is almost always limited by the overhead of communicating between servers; DNN training is not an exception to
 this rule. Therefore, the key consideration this paper makes is to reduce communication overhead wherever possible, while not degrading the accuracy of the DNN models that we train. 
-4. [SparkNet](https://arxiv.org/abs/1511.06051): Training Deep Networks in Spark. In Proceedings of the
+3. [SparkNet](https://arxiv.org/abs/1511.06051): Training Deep Networks in Spark. In Proceedings of the
 International Conference on Learning Representations (ICLR).
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
