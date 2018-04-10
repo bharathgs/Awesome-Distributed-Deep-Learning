@@ -56,5 +56,6 @@ Data-Parallel Distributed Training of Speech DNNs, In Interspeech 2014.
 5. [Scalable Distributed DNN Training Using
 Commodity GPU Cloud Computing](https://s3-us-west-2.amazonaws.com/amazon.jobs-public-documents/strom_interspeech2015.pdf):It introduces a new method for scaling up distributed Stochastic Gradient Descent (SGD) training of Deep Neural
 Networks (DNN). The method solves the well-known communication bottleneck problem that arises for data-parallel SGD because compute nodes frequently need to synchronize a replica of the model.  
+6. [Multi-GPU Training of ConvNets.](http://arxiv.org/abs/1312.5853): Training of ConvNets on multiple GPU's
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
