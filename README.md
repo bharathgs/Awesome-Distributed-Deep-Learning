@@ -1,4 +1,4 @@
-# Awesome Distributed Machine Learning
+# Awesome Distributed Deep Learning
 
 <p align="center">
 	<img src="https://img.shields.io/badge/stars-0-brightgreen.svg?style=flat"/>
@@ -6,14 +6,14 @@
 	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </p>
 
-A curated list of awesome Deep Learning tutorials, projects and communities.
+A curated list of awesome Distributed Deep Learning resources.
 
 ## Table of Contents
 
 ### **[Frameworks](#frameworks)** 
 
 ### **[Blogs](#blogs)** 
-<!--
+
 ### **[Papers](#papers)**  
 <!--
 ### **[Tutorials](#tutorials)**  
@@ -38,3 +38,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 2. [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow
 ](https://eng.uber.com/horovod/)
 3. [distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/)
+
+## Papers
+
+1. [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941):discusses the different types of concurrency in DNNs; synchronous and asynchronous stochastic gradient descent; distributed system architectures; communication schemes; and performance modeling. Based on these approaches, it also extrapolates the  potential directions for parallelism in deep learning. 
