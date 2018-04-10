@@ -53,5 +53,8 @@ this rule. Therefore, the key consideration this paper makes is to reduce commun
 International Conference on Learning Representations (ICLR).
 4. [1-Bit SGD](https://www.microsoft.com/en-us/research/publication/1-bit-stochastic-gradient-descent-and-application-to-data-parallel-distributed-training-of-speech-dnns/): 1-Bit Stochastic Gradient Descent and Application to
 Data-Parallel Distributed Training of Speech DNNs, In Interspeech 2014.
+5. [Scalable Distributed DNN Training Using
+Commodity GPU Cloud Computing](https://s3-us-west-2.amazonaws.com/amazon.jobs-public-documents/strom_interspeech2015.pdf):It introduces a new method for scaling up distributed Stochastic Gradient Descent (SGD) training of Deep Neural
+Networks (DNN). The method solves the well-known communication bottleneck problem that arises for data-parallel SGD because compute nodes frequently need to synchronize a replica of the model.  
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
