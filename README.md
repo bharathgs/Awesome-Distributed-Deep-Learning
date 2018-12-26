@@ -69,7 +69,7 @@ Study.
 2. [Large Scale Distributed Deep Networks](https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf): J. Dean et al. 2012. Large Scale Distributed Deep Networks. In Proc. 25th International Conference on Neural Information Processing Systems - Volume 1 (NIPS’12). 1223–1231.
 3. [Asynchronous Parallel Stochastic Gradient Descent](https://arxiv.org/abs/1505.04956):J. Keuper and F. Pfreundt. 2015. Asynchronous Parallel Stochastic Gradient Descent: A Numeric Core for Scalable Distributed Machine Learning Algorithms. In Proc. Workshop on MLHPC. 1:1–1:11. 
 4. [Dogwild!-Distributed Hogwild for CPU & GPU.](https://papers.nips.cc/paper/7289-hogwild-gibbs-can-be-panaccurate.pdf): C. Noel and S. Osindero. 2014. Dogwild!-Distributed Hogwild for CPU & GPU. In NIPS Workshop on Distributed Machine Learning and Matrix Computations.
-5. [](): 
+5. [GPU Asynchronous Stochastic Gradient Descent to Speed Up Neural Network Training.](https://arxiv.org/abs/1312.6186): T. Paine, H. Jin, J. Yang, Z. Lin, and T. S. Huang. 2013. GPU Asynchronous Stochastic Gradient Descent to Speed Up Neural Network Training. (2013). arXiv:1312.6186
 6. [](): 
 7. [](): 
 
