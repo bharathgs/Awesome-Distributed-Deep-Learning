@@ -61,4 +61,6 @@ Networks (DNN). The method solves the well-known communication bottleneck proble
 1. [Model Accuracy and Runtime Tradeoff in Distributed Deep Learning](https://doi.org/10.1109/ICDM.2016.0028): A Systematic
 Study.
 2. [A Fast Learning Algorithm for Deep Belief Nets.](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf):A fast learning algorithm for deep belief nets
+3. [Heterogeneity-aware Distributed Parameter Servers.](http://net.pku.edu.cn/~cuibin/Papers/2017%20sigmod.pdf): J. Jiang, B. Cui, C. Zhang, and L. Yu. 2017. Heterogeneity-aware Distributed Parameter Servers. In Proc. 2017 ACM International Conference on Management of Data (SIGMOD ’17). 463–478.
+4. [](): 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
