@@ -70,7 +70,7 @@ Study.
 3. [Asynchronous Parallel Stochastic Gradient Descent](https://arxiv.org/abs/1505.04956):J. Keuper and F. Pfreundt. 2015. Asynchronous Parallel Stochastic Gradient Descent: A Numeric Core for Scalable Distributed Machine Learning Algorithms. In Proc. Workshop on MLHPC. 1:1–1:11. 
 4. [Dogwild!-Distributed Hogwild for CPU & GPU.](https://papers.nips.cc/paper/7289-hogwild-gibbs-can-be-panaccurate.pdf): C. Noel and S. Osindero. 2014. Dogwild!-Distributed Hogwild for CPU & GPU. In NIPS Workshop on Distributed Machine Learning and Matrix Computations.
 5. [GPU Asynchronous Stochastic Gradient Descent to Speed Up Neural Network Training.](https://arxiv.org/abs/1312.6186): T. Paine, H. Jin, J. Yang, Z. Lin, and T. S. Huang. 2013. GPU Asynchronous Stochastic Gradient Descent to Speed Up Neural Network Training. (2013). arXiv:1312.6186
-6. [](): 
-7. [](): 
+6. [HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://arxiv.org/abs/1106.5730): B. Recht, C. Re, S. Wright, and F. Niu. 2011. Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent. In Advances in Neural Information Processing Systems 24. 693–701.
+7. [Asynchronous stochastic gradient descent for DNN training](https://ieeexplore.ieee.org/document/6638950): S. Zhang, C. Zhang, Z. You, R. Zheng, and B. Xu. 2013. Asynchronous stochastic gradient descent for DNN training. In IEEE International Conference on Acoustics, Speech and Signal Processing. 6660–6663.
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
