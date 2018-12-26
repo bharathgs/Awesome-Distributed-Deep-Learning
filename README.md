@@ -63,6 +63,6 @@ Study.
 2. [A Fast Learning Algorithm for Deep Belief Nets.](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf):A fast learning algorithm for deep belief nets
 3. [Heterogeneity-aware Distributed Parameter Servers.](http://net.pku.edu.cn/~cuibin/Papers/2017%20sigmod.pdf): J. Jiang, B. Cui, C. Zhang, and L. Yu. 2017. Heterogeneity-aware Distributed Parameter Servers. In Proc. 2017 ACM International Conference on Management of Data (SIGMOD ’17). 463–478.
 4. [Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization](https://papers.nips.cc/paper/5751-asynchronous-parallel-stochastic-gradient-for-nonconvex-optimization.pdf):X. Lian, Y. Huang, Y. Li, and J. Liu. 2015. Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization. In Proc. 28th Int’l Conf. on NIPS - Volume 2. 2737–2745. 
-
+5. [Staleness-Aware Async-SGD for Distributed Deep Learning](https://www.ijcai.org/Proceedings/16/Papers/335.pdf): W. Zhang, S. Gupta, X. Lian, and J. Liu. 2016. Staleness-aware async-SGD for Distributed Deep Learning. In Proc. Twenty-Fifth International Joint Conference on Artificial Intelligence (IJCAI’16). 2350–2356.
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
