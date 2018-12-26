@@ -60,5 +60,5 @@ Networks (DNN). The method solves the well-known communication bottleneck proble
 #### Stale-Synchronous techniques: 
 1. [Model Accuracy and Runtime Tradeoff in Distributed Deep Learning](https://doi.org/10.1109/ICDM.2016.0028): A Systematic
 Study.
-
+2. [A Fast Learning Algorithm for Deep Belief Nets.](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf):A fast learning algorithm for deep belief nets
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
