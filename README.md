@@ -66,7 +66,7 @@ Study.
 5. [Staleness-Aware Async-SGD for Distributed Deep Learning](https://www.ijcai.org/Proceedings/16/Papers/335.pdf): W. Zhang, S. Gupta, X. Lian, and J. Liu. 2016. Staleness-aware async-SGD for Distributed Deep Learning. In Proc. Twenty-Fifth International Joint Conference on Artificial Intelligence (IJCAI’16). 2350–2356.
 #### Asynchronous techniques: 
 1. [A Unified Analysis of HOGWILD!-style Algorithms.](https://arxiv.org/abs/1506.06438): C. De Sa, C. Zhang, K. Olukotun, and C. Ré. 2015. Taming the Wild: A Unified Analysis of HOGWILD!-style Algorithms. In Proc. 28th Int’l Conf. on NIPS - Volume 2. 2674–2682.
-
+2. [Large Scale Distributed Deep Networks](https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf): J. Dean et al. 2012. Large Scale Distributed Deep Networks. In Proc. 25th International Conference on Neural Information Processing Systems - Volume 1 (NIPS’12). 1223–1231.
 
 
 
