@@ -72,5 +72,9 @@ Study.
 5. [GPU Asynchronous Stochastic Gradient Descent to Speed Up Neural Network Training.](https://arxiv.org/abs/1312.6186): T. Paine, H. Jin, J. Yang, Z. Lin, and T. S. Huang. 2013. GPU Asynchronous Stochastic Gradient Descent to Speed Up Neural Network Training. (2013). arXiv:1312.6186
 6. [HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://arxiv.org/abs/1106.5730): B. Recht, C. Re, S. Wright, and F. Niu. 2011. Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent. In Advances in Neural Information Processing Systems 24. 693–701.
 7. [Asynchronous stochastic gradient descent for DNN training](https://ieeexplore.ieee.org/document/6638950): S. Zhang, C. Zhang, Z. You, R. Zheng, and B. Xu. 2013. Asynchronous stochastic gradient descent for DNN training. In IEEE International Conference on Acoustics, Speech and Signal Processing. 6660–6663.
+#### Non-Deterministic Communication: 
+1. [GossipGraD](https://arxiv.org/abs/1803.05880):Scalable Deep Learning using Gossip Communication based Asynchronous Gradient Descent
+2. 
+3. 
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
