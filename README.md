@@ -76,7 +76,7 @@ Study.
 7. [Asynchronous stochastic gradient descent for DNN training](https://ieeexplore.ieee.org/document/6638950): S. Zhang, C. Zhang, Z. You, R. Zheng, and B. Xu. 2013. Asynchronous stochastic gradient descent for DNN training. In IEEE International Conference on Acoustics, Speech and Signal Processing. 6660–6663.
 #### Non-Deterministic Communication: 
 1. [GossipGraD](https://arxiv.org/abs/1803.05880):Scalable Deep Learning using Gossip Communication based Asynchronous Gradient Descent
-2. 
+2. [How to scale distributed deep learning](https://arxiv.org/abs/1611.04581): How to scale distributed deep learning?
 3. 
 ### Parameter Distribution and Communication:
 #### Centralization:
