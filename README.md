@@ -80,29 +80,130 @@ Study.
 3. [Heterogeneity-aware Distributed Parameter Servers](https://dl.acm.org/citation.cfm?id=3035933): a study of distributed machine learning in heterogeneous environments.
 ### Parameter Distribution and Communication:
 #### Centralization:
-##### Parameter Server (PS): 
+##### Parameter Server (PS):
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
 ##### Sharded PS: 
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
+5. [](): 
+6. [](): 
+7. [](): 
+8. [](): 
 ##### Hierarchical PS:
+1. [](): 
+2. [](): 
+3. [](): 
 ##### Decentralized:
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
 #### Compression:
 ##### Quantization:
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
+5. [](): 
+6. [](): 
+7. [](): 
+8. [](): 
+9. [](): 
+10. [](): 
+11. [](): 
+12. [](): 
+13. [](): 
+14. [](): 
+15. [](): 
 ##### Sparsification:
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
+5. [](): 
+6. [](): 
+7. [](): 
 ##### Other Methods:
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
+5. [](): 
+6. [](): 
+7. [](): 
 ### Training Distribution:
 #### Model Consolidation: 
 ##### Ensemble Learning:
+1. [](): 
+2. [](): 
+3. []():
 ##### Knowledge Distillation:
+1. [](): 
+2. [](): 
 ##### Model Averaging:
-###### Direct:
-###### Elastic: 
+###### Direct: 
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
+5. []():
+###### Elastic:
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
 ###### Natural Gradient: 
+1. [](): 
+2. [](): 	
 #### Optimization Algorithms:
 #####  First-Order:
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
+5. [](): 
+6. [](): 
+7. [](): 
 ##### Second-Order:
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
+5. [](): 
+6. [](): 
+7. [](): 
 ##### Evolutionary:
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
 ##### Hyper-Parameter Search:
 ##### Architecture Search:
 ###### Reinforcement: 
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
+5. [](): 
+6. [](): 
+7. [](): 
+8. []():
+9. [](): 
 ###### Evolutionary:
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
+5. [](): 
 ###### SMBO:
+1. [](): 
+2. [](): 
+3. [](): 
+4. [](): 
+5. [](): 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
