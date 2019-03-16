@@ -77,7 +77,7 @@ Study.
 #### Non-Deterministic Communication: 
 1. [GossipGraD](https://arxiv.org/abs/1803.05880):Scalable Deep Learning using Gossip Communication based Asynchronous Gradient Descent
 2. [How to scale distributed deep learning](https://arxiv.org/abs/1611.04581): How to scale distributed deep learning?
-3. 
+3. [Heterogeneity-aware Distributed Parameter Servers](https://dl.acm.org/citation.cfm?id=3035933): a study of distributed machine learning in heterogeneous environments.
 ### Parameter Distribution and Communication:
 #### Centralization:
 #### Compression
