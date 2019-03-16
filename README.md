@@ -42,6 +42,8 @@ A curated list of awesome Distributed Deep Learning resources.
 ## Papers 
 ### General:
 1. [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941):discusses the different types of concurrency in DNNs; synchronous and asynchronous stochastic gradient descent; distributed system architectures; communication schemes; and performance modeling. Based on these approaches, it also extrapolates the  potential directions for parallelism in deep learning. 
+
+## Model Consistency:
 ### Synchronization:
 #### Synchronous techniques: 
 1. [Deep learning with COTS HPC systems](http://ai.stanford.edu/~acoates/papers/CoatesHuvalWangWuNgCatanzaro_icml2013.pdf): Commodity Off-The-Shelf High Performance Computing (COTS HPC) technology, a cluster of GPU servers with Infiniband interconnects and MPI.
@@ -76,5 +78,11 @@ Study.
 1. [GossipGraD](https://arxiv.org/abs/1803.05880):Scalable Deep Learning using Gossip Communication based Asynchronous Gradient Descent
 2. 
 3. 
+### Parameter Distribution and Communication:
+#### Centralization:
+#### Compression
+### Training Distribution:
+#### Model Consolidation: 
+#### Optimization Algorithms: 
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
