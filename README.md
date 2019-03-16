@@ -80,9 +80,29 @@ Study.
 3. [Heterogeneity-aware Distributed Parameter Servers](https://dl.acm.org/citation.cfm?id=3035933): a study of distributed machine learning in heterogeneous environments.
 ### Parameter Distribution and Communication:
 #### Centralization:
-#### Compression
+##### Parameter Server (PS): 
+##### Sharded PS: 
+##### Hierarchical PS:
+##### Decentralized:
+#### Compression:
+##### Quantization:
+##### Sparsification:
+##### Other Methods:
 ### Training Distribution:
 #### Model Consolidation: 
-#### Optimization Algorithms: 
-
+##### Ensemble Learning:
+##### Knowledge Distillation:
+##### Model Averaging:
+###### Direct:
+###### Elastic: 
+###### Natural Gradient: 
+#### Optimization Algorithms:
+#####  First-Order:
+##### Second-Order:
+##### Evolutionary:
+##### Hyper-Parameter Search:
+##### Architecture Search:
+###### Reinforcement: 
+###### Evolutionary:
+###### SMBO:
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
