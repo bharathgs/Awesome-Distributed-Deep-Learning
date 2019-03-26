@@ -95,9 +95,10 @@ Server.
 6. [Petuum](http://www.cs.cmu.edu/~pengtaox/papers/petuum_15.pdf): E. P. Xing, Q. Ho, W. Dai, J. K. Kim, J. Wei, S. Lee, X. Zheng, P. Xie, A. Kumar, and Y. Yu. 2015. Petuum: A New Platform for Distributed Machine Learning on Big Data. IEEE Transactions on Big Data 1, 2 (2015), 49–67.
 7. [Poseidon](https://arxiv.org/abs/1512.06216): H. Zhang, Z. Hu, J. Wei, P. Xie, G. Kim, Q. Ho, and E. P. Xing. 2015. Poseidon: A System Architecture for Efficient GPU-based Deep Learning on Multiple Machines. (2015). arXiv:1512.06216
 ##### Hierarchical PS:
-1. [](): 
-2. [](): 
-3. [](): 
+1. [Model Accuracy and Runtime Tradeoff in Distributed Deep Learning:A Systematic Study
+](https://arxiv.org/abs/1509.04210?context=cs): S. Gupta, W. Zhang, and F. Wang. 2016. Model Accuracy and Runtime Tradeoff in Distributed Deep Learning: A Systematic Study. In IEEE 16th International Conference on Data Mining (ICDM). 171–180.
+2. [gaia](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-hsieh.pdf): K. Hsieh, A. Harlap, N. Vijaykumar, D. Konomis, G. R. Ganger, P. B. Gibbons, and O. Mutlu. 2017. Gaia: Geo-distributed Machine Learning Approaching LAN Speeds. In Proc. 14th USENIX Conf. on NSDI. 629–647.
+3. [Using Supercomputer to Speed up Neural Network Training](https://ieeexplore.ieee.org/document/7823841/): Y. Yu, J. Jiang, and X. Chi. 2016. Using Supercomputer to Speed up Neural Network Training. In IEEE 22nd International Conference on Parallel and Distributed Systems (ICPADS). 942–947.
 ##### Decentralized:
 1. [](): 
 2. [](): 
