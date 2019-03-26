@@ -90,11 +90,10 @@ Server.
 1. [Project Adam](https://pdfs.semanticscholar.org/043a/fbd936c95d0e33c4a391365893bd4102f1a7.pdf):T. Chilimbi, Y. Suzue, J. Apacible, and K. Kalyanaraman. 2014. Building an Efficient and Scalable Deep Learning Training System. In 11th USENIX Symposium on Operating Systems Design and Implementation. 571–582.
 2. [Large Scale Distributed Deep Networks](https://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf): J. Dean et al. 2012. Large Scale Distributed Deep Networks. In Proc. 25th International Conference on Neural Information Processing Systems - Volume 1 (NIPS’12). 1223–1231.
 3. [Heterogeneity-aware Distributed Parameter Servers](https://ds3lab.files.wordpress.com/2017/07/sigmod2017_jiang.pdf): J. Jiang, B. Cui, C. Zhang, and L. Yu. 2017. Heterogeneity-aware Distributed Parameter Servers. In Proc. 2017 ACM International Conference on Management of Data (SIGMOD ’17). 463–478.
-4. [](): 
-5. [](): 
-6. [](): 
-7. [](): 
-8. [](): 
+4. [Building High-level Features Using Large Scale Unsupervised Learning](https://icml.cc/2012/papers/73.pdf): Q. V. Le, M. Ranzato, R. Monga, M. Devin, K. Chen, G. S. Corrado, J. Dean, and A. Y. Ng. 2012. Building High-level Features Using Large Scale Unsupervised Learning. In Proc. 29th Int’l Conf. on Machine Learning (ICML’12). 507–514.
+5. [Deep Learning at 15PF: Supervised and Semi-Supervised Classification for Scientific Data](https://arxiv.org/abs/1708.05256): T. Kurth et al. 2017. Deep Learning at 15PF: Supervised and Semi-supervised Classification for Scientific Data. In Proc. Int’l Conf. for High Performance Computing, Networking, Storage and Analysis (SC ’17). 7:1–7:11.
+6. [Petuum](http://www.cs.cmu.edu/~pengtaox/papers/petuum_15.pdf): E. P. Xing, Q. Ho, W. Dai, J. K. Kim, J. Wei, S. Lee, X. Zheng, P. Xie, A. Kumar, and Y. Yu. 2015. Petuum: A New Platform for Distributed Machine Learning on Big Data. IEEE Transactions on Big Data 1, 2 (2015), 49–67.
+7. [Poseidon](https://arxiv.org/abs/1512.06216): H. Zhang, Z. Hu, J. Wei, P. Xie, G. Kim, Q. Ho, and E. P. Xing. 2015. Poseidon: A System Architecture for Efficient GPU-based Deep Learning on Multiple Machines. (2015). arXiv:1512.06216
 ##### Hierarchical PS:
 1. [](): 
 2. [](): 
