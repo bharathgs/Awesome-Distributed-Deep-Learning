@@ -81,8 +81,9 @@ Study.
 ### Parameter Distribution and Communication:
 #### Centralization:
 ##### Parameter Server (PS):
-1. [](): 
-2. [](): 
+1. [GeePS](http://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf): Scalable Deep Learning on Distributed GPUs with a GPU-specialized Parameter.
+Server.
+2. [FireCaffe](https://arxiv.org/abs/1511.00175): F. N. Iandola, M. W. Moskewicz, K. Ashraf, and K. Keutzer. 2016: Near-Linear Acceleration of Deep Neural Network Training on Compute Clusters. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
 3. [](): 
 4. [](): 
 ##### Sharded PS: 
