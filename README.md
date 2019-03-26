@@ -38,6 +38,8 @@ A curated list of awesome Distributed Deep Learning resources.
 2. [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow
 ](https://eng.uber.com/horovod/)
 3. [distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/)
+4. [Accelerating Deep Learning Using Distributed SGD — An Overview](https://towardsdatascience.com/accelerating-deep-learning-using-distributed-sgd-an-overview-e66c4aee1a0c)
+5. [Intro to Distributed Deep Learning Systems](https://medium.com/@Petuum/intro-to-distributed-deep-learning-systems-a2e45c6b8e7): 
 
 ## Papers 
 ### General:
