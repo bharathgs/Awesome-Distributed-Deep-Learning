@@ -87,9 +87,9 @@ Server.
 3. [DeepSpark](https://arxiv.org/abs/1602.08191): H. Kim et al. 2016. Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility. (2016).
 4. [Scaling Distributed Machine Learning with the Parameter Server](https://www.cs.cmu.edu/~dga/papers/osdi14-paper-li_mu.pdf): M. Li et al. 2014. Scaling Distributed Machine Learning with the Parameter Server. In Proc. 11th USENIX Conference on Operating Systems Design and Implementation (OSDI’14). 583–598.
 ##### Sharded PS: 
-1. [](): 
-2. [](): 
-3. [](): 
+1. [Project Adam](https://pdfs.semanticscholar.org/043a/fbd936c95d0e33c4a391365893bd4102f1a7.pdf):T. Chilimbi, Y. Suzue, J. Apacible, and K. Kalyanaraman. 2014. Building an Efficient and Scalable Deep Learning Training System. In 11th USENIX Symposium on Operating Systems Design and Implementation. 571–582.
+2. [Large Scale Distributed Deep Networks](https://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf): J. Dean et al. 2012. Large Scale Distributed Deep Networks. In Proc. 25th International Conference on Neural Information Processing Systems - Volume 1 (NIPS’12). 1223–1231.
+3. [Heterogeneity-aware Distributed Parameter Servers](https://ds3lab.files.wordpress.com/2017/07/sigmod2017_jiang.pdf): J. Jiang, B. Cui, C. Zhang, and L. Yu. 2017. Heterogeneity-aware Distributed Parameter Servers. In Proc. 2017 ACM International Conference on Management of Data (SIGMOD ’17). 463–478.
 4. [](): 
 5. [](): 
 6. [](): 
