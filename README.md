@@ -1,8 +1,7 @@
 # Awesome Distributed Deep Learning
 
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-46-brightgreen.svg?style=flat"/>
-	<img src="https://img.shields.io/badge/forks-12-brightgreen.svg?style=flat"/>
+	<img src="https://img.shields.io/badge/stars-109-brightgreen.svg?style=flat"/>
 	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </p>
 
