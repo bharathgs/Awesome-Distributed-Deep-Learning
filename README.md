@@ -101,4 +101,4 @@ Server.
 2. [gaia](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-hsieh.pdf): K. Hsieh, A. Harlap, N. Vijaykumar, D. Konomis, G. R. Ganger, P. B. Gibbons, and O. Mutlu. 2017. Gaia: Geo-distributed Machine Learning Approaching LAN Speeds. In Proc. 14th USENIX Conf. on NSDI. 629–647.
 3. [Using Supercomputer to Speed up Neural Network Training](https://ieeexplore.ieee.org/document/7823841/): Y. Yu, J. Jiang, and X. Chi. 2016. Using Supercomputer to Speed up Neural Network Training. In IEEE 22nd International Conference on Parallel and Distributed Systems (ICPADS). 942–947.
 
-**Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
+**Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute to the list.**
