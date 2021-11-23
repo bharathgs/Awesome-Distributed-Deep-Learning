@@ -14,6 +14,8 @@ A curated list of awesome Distributed Deep Learning resources.
 ### **[Blogs](#blogs)** 
 
 ### **[Papers](#papers)**  
+
+### **[Books](#books)**
 <!--
 ### **[Tutorials](#tutorials)**  
 
@@ -43,6 +45,9 @@ A curated list of awesome Distributed Deep Learning resources.
 ## Papers 
 ### General:
 1. [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941):discusses the different types of concurrency in DNNs; synchronous and asynchronous stochastic gradient descent; distributed system architectures; communication schemes; and performance modeling. Based on these approaches, it also extrapolates the  potential directions for parallelism in deep learning. 
+
+## Books 
+1. [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns): this book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
 
 ## Model Consistency:
 ### Synchronization:
