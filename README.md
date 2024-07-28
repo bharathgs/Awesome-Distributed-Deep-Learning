@@ -32,6 +32,7 @@ A curated list of awesome Distributed Deep Learning resources.
 4. [Distributed Machine learning Tool Kit (DMTK)](http://www.dmtk.io/) - A distributed machine learning (parameter server) framework by Microsoft. Enables training models on large data sets across multiple machines. Current tools bundled with it include: LightLDA and Distributed (Multisense) Word Embedding.
 5. [Elephas](https://github.com/maxpumperla/elephas) - Elephas is an extension of Keras, which allows you to run distributed deep learning models at scale with Spark.
 6. [Horovod](https://github.com/uber/horovod) - Distributed training framework for TensorFlow.
+7. [Nerlnet](https://github.com/leondavi/NErlNet)- Distributed Machine Learning for IoT. Easy setup of a distributed cluster with Jupyter Notebook and 3 Json configurations, on any Linux that supports Erlang/OTP.
 
 ## Blogs
 
